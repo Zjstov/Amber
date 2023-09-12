@@ -1,0 +1,13 @@
+body {
+    background-color:#fa10fa;
+    }
+
+    h1 {
+
+           border: 2px solid blue;
+           text-align: center;
+           font-family: courier;
+           color:blue;
+           font-size: 130% ;
+
+           }
