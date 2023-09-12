@@ -1,5 +1,12 @@
+div1 {
+    background-color: #94dfff;
+    width: 50px;
+    padding: 50px ;
+    
+    margin: 10px ;
+  }
 body {
-    background-color:#fa10fa;
+    background-color:#fafa10;
     }
 
     h1 {
